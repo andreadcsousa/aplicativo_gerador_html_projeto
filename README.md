@@ -52,7 +52,7 @@ Crie um aplicativo web chamado "Cadastro de Projetos" utilizando a paleta de cor
 - Interface do usuário (ui)
 
 <div align="right">
-  <a href="#topo">🔼 Voltar ao topo</a>
+  🔼 <a href="#topo" style="text-decoration: none;">Voltar ao topo</a>
 </div>
 
 ## ⚡ Lovable
@@ -91,5 +91,5 @@ O resultado final foi um painel de controle minimalista e ultra-focado em produt
 ![Imagem do aplicativo](screenshot.png)
 
 <div align="right">
-  <a href="#topo">🔼 Voltar ao topo</a>
+  🔼 <a href="#topo" style="text-decoration: none;">Voltar ao topo</a>
 </div>
