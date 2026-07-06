@@ -1,12 +1,19 @@
-<h1 style="color: #51e5ff; text-align: center;">&lt; Andrea Sousa /&gt;</h1>
+<div id="topo" align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=51E5FF&repeat=false&center=true&vCenter=true&width=435&lines=%3C+Andrea+Sousa+%2F%3E" alt="Andrea Sousa" />
+</div>
 
-<h3 style="text-align: center;">
-  <a href="#gemini">Gemini</a> • <a href="#lovable">Lovable</a>
-</h3>
+<div align="center">
+  
+  |                |                                       |                                              |                               |                                     |
+  | -------------- | ------------------------------------- | -------------------------------------------- | ----------------------------- | ----------------------------------- |
+  | 🤖 **Gemini**  | 🚀 [Etapa Inicial](#-etapa-inicial)  | 🎨 [Personalização](#-personalização)        | 📥 [Inputs](#-inputs)        | 📄 [Prompt gerado](#-prompt-gerado) |
+  | ⚡ **Lovable** | ⚙️ [Automação](#%EF%B8%8F-automação) | 🛠️ [Ajustes finos](#%EF%B8%8F-ajustes-finos) | 📱 [Aplicativo](#-aplicativo) |                                     |
+
+</div>
 
 Este projeto foi desenvolvido no Lovable utilizando engenharia de prompt com o Google Gemini para automatizar o fluxo de desenvolvimento. A partir dessa estrutura, o aplicativo gera novos códigos HTML que seguem fielmente a identidade visual, o design e os padrões estruturais já consolidados no meu portfólio pessoal.
 
-## Gemini
+## 🤖 Gemini
 
 ### 🚀 Etapa inicial
 
@@ -32,7 +39,7 @@ O resultado do trabalho com o Gemini foi a criação de um **Prompt Estruturado 
 - `Injeção de layout condicional`: Regras para alterar dinamicamente o comportamento da frente e do verso do card dependendo do tipo de projeto.
 - `Identidade visual nativa`: Passagem de variáveis de ambiente CSS para que o app gerador nascesse com o visual e design idênticos ao ecossistema do portfólio original.
 
-### 🤖 Prompt gerado
+### 📄 Prompt gerado
 
 Crie um aplicativo web chamado "Cadastro de Projetos" utilizando a paleta de cores fornecida abaixo. O objetivo principal do app é coletar informações de projetos de análise e engenharia de dados através de um formulário interativo e gerar um código HTML padronizado estruturado em cards com efeito de "flip" (frente e verso), pronto para copiar e colar em um arquivo "projects.html".
 
@@ -44,9 +51,13 @@ Crie um aplicativo web chamado "Cadastro de Projetos" utilizando a paleta de cor
 - Regras de lógica e condicionais para geração do html (ux)
 - Interface do usuário (ui)
 
-## Lovable
+<div align="right">
+  <a href="#topo">🔼 Voltar ao topo</a>
+</div>
 
-### ⚡ Automação
+## ⚡ Lovable
+
+### ⚙️ Automação
 
 Com a estrutura de dados muito bem definida no prompt inicial, o Lovable criou a primeira versão do app com uma interface dividida: formulário na esquerda e código gerado na direita. A partir daí, o foco foi transformar o aplicativo em uma central de inteligência para que eu não precisasse preencher quase nada manualmente.
 
@@ -75,4 +86,10 @@ O resultado final foi um painel de controle minimalista e ultra-focado em produt
 > [!IMPORTANT]
 > Os campos da metodologia S.A.R. (Situação, Ação e Resultado) ganharam uma área de texto expandida para facilitar a escrita.
 
+🌐 Clique [aqui](https://project-card-generator.lovable.app/) para acessar o aplicativo em tempo real
+
 ![Imagem do aplicativo](screenshot.png)
+
+<div align="right">
+  <a href="#topo">🔼 Voltar ao topo</a>
+</div>
